@@ -1,1 +1,1 @@
-# my-site
+# uhodi, tut govnokod
